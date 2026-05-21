@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Rahul Shetty",
+        "body": {
+            "en": "ZocTech delivered my business website in just 3 days. Clean UI and super fast loading.",
+            "hi": "ZocTech ने मेरी बिज़नेस वेबसाइट सिर्फ़ 3 दिनों में डिलीवर कर दी। साफ़ UI और बहुत तेज़ लोडिंग।",
+            "ta": "ZocTech என் வணிக வலைத்தளத்தை வெறும் 3 நாட்களில் வழங்கியது. தூய்மையான UI மற்றும் வேகமான ஏற்றுதல்.",
+            "mwr": "ZocTech म्हांरी बिज़नेस वेबसाइट कोरी 3 दिनां में दे दी। साफ UI अर बहोत तेज़ लोडिंग।"
+        },
+        "img": "https://images.unsplash.com/photo-1599566150163-29194dcaad36"
+    },
+    {
+        "name": "Priya Nair",
+        "body": {
+            "en": "The design looks premium. I started getting leads within the first week itself.",
+            "hi": "डिज़ाइन प्रीमियम दिखता है। मुझे पहले हफ़्ते में ही लीड्स मिलने लगीं।",
+            "ta": "வடிவமைப்பு பிரீமியமாக உள்ளது. முதல் வாரத்திலேயே லீட்கள் வரத் தொடங்கின.",
+            "mwr": "डिज़ाइन प्रीमियम लागै। पैले हफ़्ते में ही लीड आणी चालू।"
+        },
+        "img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
+    },
+    {
+        "name": "Amit Verma",
+        "body": {
+            "en": "Very smooth process. Daksh handled everything from domain to deployment.",
+            "hi": "बहुत स्मूद प्रक्रिया। दक्ष ने डोमेन से लेकर डिप्लॉयमेंट तक सब संभाला।",
+            "ta": "மிக மென்மையான செயல்முறை. டொமைனிலிருந்து வரிசைப்படுத்தல் வரை அனைத்தையும் தக்ஷ் கையாண்டார்.",
+            "mwr": "बहोत स्मूद प्रक्रिया। दक्ष डोमेन सूं डिप्लॉयमेंट तांई सब संभाळ्यो।"
+        },
+        "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+    },
+    {
+        "name": "Sneha Kulkarni",
+        "body": {
+            "en": "Loved the mobile responsiveness. My clients mostly use phones and it works perfectly.",
+            "hi": "मोबाइल रिस्पॉन्सिवनेस पसंद आई। मेरे क्लाइंट ज़्यादातर फ़ोन इस्तेमाल करते हैं और यह बिल्कुल सही काम करती है।",
+            "ta": "மொபைல் பதிலளிப்பு பிடித்திருந்தது. என் வாடிக்கையாளர்கள் பெரும்பாலும் ஃபோன்களைப் பயன்படுத்துகிறார்கள், அது சரியாக வேலை செய்கிறது.",
+            "mwr": "मोबाइल रिस्पॉन्सिवनेस पसंद आई। म्हांरा क्लाइंट ज्यादा फ़ोन वापरै अर पूरी ठीक चालै।"
+        },
+        "img": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
+    },
+    {
+        "name": "Rohit Patil",
+        "body": {
+            "en": "Affordable pricing and quick delivery. No unnecessary delays or confusion.",
+            "hi": "किफ़ायती मूल्य और जल्दी डिलीवरी। कोई अनावश्यक देरी या भ्रम नहीं।",
+            "ta": "மலிவான விலை மற்றும் விரைவான டெலிவரி. தேவையற்ற தாமதம் இல்லை.",
+            "mwr": "सस्ता मूल्य अर जल्दी डिलीवरी। कोई बेकार री देरी कोनी।"
+        },
+        "img": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126"
+    },
+    {
+        "name": "Anjali Sharma",
+        "body": {
+            "en": "The website design looks clean and modern. Exactly what I had in mind.",
+            "hi": "वेबसाइट का डिज़ाइन साफ़ और आधुनिक दिखता है। बिल्कुल वैसा जैसा मैंने सोचा था।",
+            "ta": "வலைத்தள வடிவமைப்பு தூய்மையாகவும் நவீனமாகவும் தெரிகிறது. நான் நினைத்தபடியே.",
+            "mwr": "वेबसाइट रो डिज़ाइन साफ अर आधुनिक लागै। बिल्कुल जिस्यो मैं सोच्यो थो।"
+        },
+        "img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+    },
+    {
+        "name": "Kiran Naik",
+        "body": {
+            "en": "Communication was very clear on WhatsApp. Got regular updates during development.",
+            "hi": "व्हाट्सएप पर बातचीत बहुत स्पष्ट थी। डेवलपमेंट के दौरान नियमित अपडेट मिले।",
+            "ta": "வாட்ஸ்அப்பில் தொடர்பு மிகவும் தெளிவாக இருந்தது. மேம்பாட்டின் போது வழக்கமான புதுப்பிப்புகள் கிடைத்தன.",
+            "mwr": "व्हाट्सएप माथे बातचीत बहोत साफ थी। डेवलपमेंट दौरान नियमित अपडेट मिळ्या।"
+        },
+        "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde"
+    },
+    {
+        "name": "Meera Joshi",
+        "body": {
+            "en": "Super fast service. Website went live in 4 days and everything worked perfectly.",
+            "hi": "बहुत तेज़ सेवा। वेबसाइट 4 दिनों में लाइव हो गई और सब कुछ बिल्कुल सही चला।",
+            "ta": "மிக வேகமான சேவை. வலைத்தளம் 4 நாட்களில் நேரலையானது.",
+            "mwr": "बहोत तेज़ सेवा। वेबसाइट 4 दिनां में लाइव हो गई।"
+        },
+        "img": "https://images.unsplash.com/photo-1554151228-14d9def656e4"
+    },
+    {
+        "name": "Vikram Desai",
+        "body": {
+            "en": "ZocTech understands business needs, not just design. That made a big difference.",
+            "hi": "ZocTech सिर्फ़ डिज़ाइन नहीं, बिज़नेस की ज़रूरतों को समझता है। इससे बड़ा फ़र्क पड़ा।",
+            "ta": "ZocTech வணிக தேவைகளைப் புரிந்துகொள்கிறது, வடிவமைப்பை மட்டுமல்ல. அது பெரிய வித்தியாசத்தை ஏற்படுத்தியது.",
+            "mwr": "ZocTech कोरो डिज़ाइन कोनी, धंधा री ज़रूरत ने समझै।"
+        },
+        "img": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5"
+    },
+    {
+        "name": "Pooja Reddy",
+        "body": {
+            "en": "Very professional work. The website feels premium even at a low budget.",
+            "hi": "बहुत पेशेवर काम। कम बजट में भी वेबसाइट प्रीमियम लगती है।",
+            "ta": "மிக தொழில்முறை வேலை. குறைந்த பட்ஜெட்டில் கூட வலைத்தளம் பிரீமியமாக உணர்கிறது.",
+            "mwr": "बहोत पेशेवर काम। कम बजट में भी वेबसाइट प्रीमियम लागै।"
+        },
+        "img": "https://images.unsplash.com/photo-1517841905240-472988babdf9"
+    }
+]

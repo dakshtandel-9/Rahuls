@@ -1,0 +1,110 @@
+[
+    {
+        "title": "AkswayFilms",
+        "tag": {
+            "en": "Photography Studio",
+            "hi": "फ़ोटोग्राफ़ी स्टूडियो",
+            "ta": "புகைப்படக் கலையகம்",
+            "mwr": "फ़ोटोग्राफ़ी स्टूडियो"
+        },
+        "description": {
+            "en": "Full business website for a photography studio. Enquiry form, tour packages.",
+            "hi": "फ़ोटोग्राफ़ी स्टूडियो के लिए पूरी बिज़नेस वेबसाइट। पूछताछ फ़ॉर्म, टूर पैकेज।",
+            "ta": "புகைப்பட ஸ்டுடியோவிற்கான முழு வணிக வலைத்தளம். விசாரணை படிவம், சுற்றுப்பயண தொகுப்புகள்.",
+            "mwr": "फ़ोटोग्राफ़ी स्टूडियो वास्ते पूरी बिज़नेस वेबसाइट। पूछताछ फ़ॉर्म, टूर पैकेज।"
+        },
+        "image": "https://res.cloudinary.com/dwethh3fq/image/upload/w_1200,f_auto,q_auto/v1776423480/Screenshot_2026-04-15_at_17.28.05_fo24eo.png",
+        "link": "https://akswayfilms.in/",
+        "caseStudy": "#"
+    },
+    {
+        "title": "Zelvaa",
+        "tag": {
+            "en": "Analytics",
+            "hi": "एनालिटिक्स",
+            "ta": "பகுப்பாய்வு",
+            "mwr": "एनालिटिक्स"
+        },
+        "description": {
+            "en": "Data analytics company providing AI, machine learning, and data-driven business solutions.",
+            "hi": "AI, मशीन लर्निंग, और डेटा-संचालित बिज़नेस समाधान देने वाली डेटा एनालिटिक्स कंपनी।",
+            "ta": "AI, இயந்திர கற்றல் மற்றும் தரவு-உந்துதல் வணிக தீர்வுகளை வழங்கும் தரவு பகுப்பாய்வு நிறுவனம்.",
+            "mwr": "AI, मशीन लर्निंग अर डेटा-आधारित धंधा समाधान देवण वाळी कंपनी।"
+        },
+        "image": "https://res.cloudinary.com/dwethh3fq/image/upload/w_1200,f_auto,q_auto:low/v1776424164/Screenshot_2026-04-15_at_17.28.19_yx04sp.png",
+        "link": "https://www.zelvaa.com/",
+        "caseStudy": "#"
+    },
+    {
+        "title": "Sanjari Herbal Hair Oil",
+        "tag": {
+            "en": "Herbal Hair Oil",
+            "hi": "हर्बल हेयर ऑयल",
+            "ta": "மூலிகை முடி எண்ணெய்",
+            "mwr": "हर्बल हेयर ऑयल"
+        },
+        "description": {
+            "en": "Herbal hair oil brand offering natural solutions for hair growth, dandruff, and scalp care.",
+            "hi": "बालों की ग्रोथ, डैंड्रफ़ और स्कैल्प केयर के लिए प्राकृतिक समाधान देने वाला हर्बल हेयर ऑयल ब्रांड।",
+            "ta": "முடி வளர்ச்சி, பொடுகு மற்றும் உச்சந்தலை பராமரிப்புக்கான இயற்கை தீர்வுகளை வழங்கும் மூலிகை எண்ணெய் பிராண்ட்.",
+            "mwr": "बाळां री बढ़त, डैंड्रफ़ अर स्कैल्प केयर वास्ते कुदरती समाधान देवण वाळो ब्रांड।"
+        },
+        "image": "https://res.cloudinary.com/dwethh3fq/image/upload/w_1200,f_auto,q_auto:low/v1776424164/Screenshot_2026-04-15_at_19.33.18_cjxka9.png",
+        "link": "https://www.sanjariherbalhairoil.com/",
+        "caseStudy": "#"
+    },
+    {
+        "title": "Sparkle Global Trade",
+        "tag": {
+            "en": "Trading Company",
+            "hi": "ट्रेडिंग कंपनी",
+            "ta": "வர்த்தக நிறுவனம்",
+            "mwr": "ट्रेडिंग कंपनी"
+        },
+        "description": {
+            "en": "Trading company supplying industrial, consumer, and commercial products across multiple industries.",
+            "hi": "कई उद्योगों में औद्योगिक, उपभोक्ता और वाणिज्यिक उत्पादों की आपूर्ति करने वाली ट्रेडिंग कंपनी।",
+            "ta": "பல தொழில்களில் தொழில்துறை, நுகர்வோர் மற்றும் வணிக தயாரிப்புகளை வழங்கும் வர்த்தக நிறுவனம்.",
+            "mwr": "बहुत उद्योगां में औद्योगिक अर वाणिज्यिक उत्पादां री आपूर्ति करण वाळी ट्रेडिंग कंपनी।"
+        },
+        "image": "https://res.cloudinary.com/dwethh3fq/image/upload/w_1200,f_auto,q_auto:low/v1776424165/Screenshot_2026-04-15_at_17.28.32_cshwyt.png",
+        "link": "https://www.sparkleglobaltrade.com/",
+        "caseStudy": "#"
+    },
+    {
+        "title": "First Frame Media",
+        "tag": {
+            "en": "Media & Entertainment",
+            "hi": "मीडिया और मनोरंजन",
+            "ta": "ஊடகம் & பொழுதுபோக்கு",
+            "mwr": "मीडिया अर मनोरंजन"
+        },
+        "description": {
+            "en": "Helping professionals build authentic LinkedIn presence that feels earned, not engineered.",
+            "hi": "पेशेवरों को LinkedIn पर असली उपस्थिति बनाने में मदद करना जो कमाई हुई लगे, बनाई हुई नहीं।",
+            "ta": "உருவாக்கப்பட்டதல்ல, சம்பாதிக்கப்பட்டது போல் தோன்றும் உண்மையான LinkedIn இருப்பை தொழில்வல்லுநர்களுக்கு உதவுதல்.",
+            "mwr": "पेशेवरां ने LinkedIn माथे साची उपस्थिति बणावण में मदद।"
+        },
+        "image": "https://res.cloudinary.com/dwethh3fq/image/upload/w_1200,f_auto,q_auto:low/v1776424163/Screenshot_2026-04-15_at_19.32.15_nieo6q.png",
+        "link": "https://www.firstframemedia.com/",
+        "caseStudy": "#"
+    },
+    {
+        "title": "Identity Dental",
+        "tag": {
+            "en": "Dental Clinic",
+            "hi": "डेंटल क्लिनिक",
+            "ta": "பல் கிளினிக்",
+            "mwr": "डेंटल क्लिनिक"
+        },
+        "description": {
+            "en": "Identity Dental is a dental clinic located in Kadapa, Andhra Pradesh.",
+            "hi": "Identity Dental कडपा, आंध्र प्रदेश में स्थित एक डेंटल क्लिनिक है।",
+            "ta": "Identity Dental ஆந்திரப் பிரதேசத்தின் கடப்பாவில் அமைந்துள்ள ஒரு பல் கிளினிக்.",
+            "mwr": "Identity Dental कडपा, आंध्र प्रदेश में एक डेंटल क्लिनिक है।"
+        },
+        "image": "https://res.cloudinary.com/dwethh3fq/image/upload/w_1200,f_auto,q_auto:low/v1776433662/Screenshot_2026-04-17_at_19.17.30_gqfqlb.png",
+        "link": "https://www.identitydental.in/",
+        "caseStudy": "#"
+    }
+]
